@@ -52,3 +52,30 @@
 .topo a:hover {
     color: #2f86d6;
 }
+
+/* SEÇÃO BANNER */
+
+.banner {
+    background-color: #2f86d6;
+    color: #fff;
+    padding: 180px 0;
+}
+
+.banner .conteudo-banner {
+    width: 470px;
+    margin: auto;
+}
+
+.banner .conteudo-banner p {
+    font-size: 16px;
+}
+
+.banner .conteudo-banner h2 {
+    font-size: 28px;
+    margin: 40px 0;
+}
+
+.banner .container img {
+    width: 50%;
+    height: 50%;
+}
