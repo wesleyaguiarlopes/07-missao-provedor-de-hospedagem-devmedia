@@ -11,7 +11,11 @@
     position: relative;
 }
 
-.topo .container,
+.topo {
+    padding: 35px 0;
+}
+
+.container,
 .topo .empresa {
     display: flex;
 } 
