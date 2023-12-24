@@ -79,3 +79,51 @@
     width: 50%;
     height: 50%;
 }
+
+/* ANÚNCIOS */
+
+.anuncios {
+    color: #fff;
+    padding: 40px 0;
+}
+
+.anuncios .conteudo-anuncio {
+    max-width: 600px;
+}
+
+.anuncios .container h2 {
+    font-size: 24px;
+}
+
+.anuncios .link-tabela-preco {
+    position: absolute;
+    right: 0;
+    padding: 15px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.anuncios .link-tabela-preco:hover {
+    text-decoration: underline;
+}
+
+.anuncios .link-tabela-preco img {
+    padding-right: 10px;
+}
+
+/* PRIMEIRO ANÚNCIO */
+
+.primeiro {
+    background-color: #233032;
+}
+
+.primeiro .conteudo-anuncio p {
+    font-size: 16px;
+}
+
+.primeiro .link-tabela-preco {
+    background-color: #2f86d6;
+}
