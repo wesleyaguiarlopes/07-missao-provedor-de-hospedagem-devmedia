@@ -127,3 +127,41 @@
 .primeiro .link-tabela-preco {
     background-color: #2f86d6;
 }
+
+/* SEÇÃO INFORMAÇÕES */
+
+.informacoes {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.informacoes .conteudo-informacoes {
+    max-width: 900px;
+    margin: 0 auto 50px auto;
+}
+
+.informacoes .conteudo-informacoes h2{
+    font-size: 32px;
+}
+
+.informacoes .conteudo-informacoes span{
+    color: #2f86d6;
+}
+
+.informacoes .caixa-informacoes {
+    width: 33%;
+}
+
+.informacoes .caixa-informacoes img {
+    width: 30%;
+}
+
+.informacoes .container h3 {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.informacoes .container p {
+    font-size: 16px;
+    padding: 0 5px;
+}
