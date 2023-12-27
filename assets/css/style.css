@@ -18,7 +18,7 @@
 .container,
 .topo .empresa {
     display: flex;
-} 
+}
 
 .topo img {
     height: 80px;
@@ -164,4 +164,62 @@
 .informacoes .container p {
     font-size: 16px;
     padding: 0 5px;
+}
+
+/* SEÇÃO PLANSOS */
+
+.planos {
+    background-color: #f1f3f7;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.planos h2 {
+    font-size: 32px;
+    margin-bottom: 70px;
+}
+
+.planos span {
+    color: #2f86d6;
+}
+
+.planos table {
+    box-shadow: 0 0 40px 15px rgb(47, 134, 214);
+    border-radius: 5px;
+}
+
+.planos table h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.planos table img {
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+.planos table p {
+    width: 140px;
+    margin: auto;
+    font-size: 13px;
+    color: #a89f9f;
+    font-weight: normal;
+}
+
+.planos table tr {
+    background-color: #fff;
+}
+
+.planos .linha-impar {
+    background-color: #f6f6f6;
+    font-size: 16px;
+}
+
+.planos table th {
+    padding: 20px;
+}
+
+.planos table td {
+    padding: 15px;
+    font-weight: 500;
 }
