@@ -223,3 +223,13 @@
     padding: 15px;
     font-weight: 500;
 }
+
+/* SEGUNDO ANÚNCIO */
+
+.segundo {
+    background-color: #2f86d6;
+}
+
+.segundo .link-tabela-preco {
+    background-color: #233032;
+}
