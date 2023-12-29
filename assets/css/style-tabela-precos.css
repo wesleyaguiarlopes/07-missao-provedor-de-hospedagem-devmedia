@@ -107,3 +107,47 @@ table {
     border-radius: 50%;
     background-color: #2f86d6;
 }
+
+/* SEÇÃO RODAPÉ */
+
+.rodape {
+    padding: 100px 0;
+    background-color: #2f86d6;
+}
+
+.rodape .empresa {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.rodape .empresa img {
+    height: 80px;
+    margin-right: 15px;
+}
+
+.rodape .empresa h1 {
+    font-size: 32px;
+}
+
+.rodape .empresa p {
+    font-size: 16px;
+    color: #fff;
+}
+
+.copyright {
+    color: #fff;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.rodape-desenvolvedor {
+    background-color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.rodape-desenvolvedor span {
+    color: #2f86d6;
+}
