@@ -54,3 +54,56 @@
 .topo a:hover {
     color: #233032;
 }
+
+/* SEÇãO RPEÇOS */
+
+.precos {
+    margin: 100px 0;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+.esconder {
+    visibility: hidden;
+}
+
+.precos table th {
+    font-weight: 500;
+    background-color: #f1f3f7;
+}
+
+.precos table thead th {
+    padding: 20px 50px 20px 50px;
+}
+
+.precos table tbody th {
+    text-align: left;
+    padding: 20px 30px 20px 30px;
+}
+
+.precos table th p {
+    color: #a8a4a4;
+    font-weight: normal;
+}
+
+.precos table th h2 {
+    font-size: 42px;
+}
+
+.precos td {
+    border-right: 1px solid #f1f3f7;
+    border-bottom: 1px solid #f1f3f7;
+    /* padding: 20px 40px; */
+}
+
+.precos table div {
+    width: 20px;
+    height: 20px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: #2f86d6;
+}
